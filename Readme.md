@@ -1,1 +1,1 @@
-mn.css, a minimal css framework.
+mn.css, a minimal css framework
